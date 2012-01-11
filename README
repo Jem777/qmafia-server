@@ -1,0 +1,8 @@
+structure:
+    Clienthandling:
+        acceptor.erl
+        client.erl
+    Games:
+        game.erl
+    Orga:
+        supervisor.erl
